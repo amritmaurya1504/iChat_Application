@@ -1,6 +1,6 @@
 ## This project was made in HTML CSS and Nodejs.
 
-### Project link :- https://ichat-realtime-app.herokuapp.com/
+### Project link :- [click here] (https://ichat-realtime-app.herokuapp.com/)
 
 ## Hi 🥰
 This is a simple Currency Converter App build with React 💖
